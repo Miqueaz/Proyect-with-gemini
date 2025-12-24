@@ -1,2 +1,2 @@
-export * from './properties/component';
-export * from './properties/type';
+export * from './properties/list.component';
+export * from './properties/list.interface';

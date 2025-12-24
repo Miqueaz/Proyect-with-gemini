@@ -1,2 +1,2 @@
-export * from './properties/component';
-export * from './properties/type';
+export * from './properties/barChart.component';
+export * from './properties/barChart.interface';

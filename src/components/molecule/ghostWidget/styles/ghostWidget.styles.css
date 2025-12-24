@@ -1,0 +1,10 @@
+.widget-ghost-mouse {
+    z-index: 100;
+    opacity: 0.95;
+    pointer-events: none;
+    position: fixed !important;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.3);
+    border: 2px solid #6366f1;
+    background: white;
+    transform: rotate(1deg);
+}

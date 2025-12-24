@@ -1,2 +1,2 @@
-export * from './button/properties/component';
-export * from './button/properties/type';
+export * from './button'
+export * from './image'
